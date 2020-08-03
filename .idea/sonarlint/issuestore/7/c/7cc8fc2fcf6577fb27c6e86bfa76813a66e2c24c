@@ -1,0 +1,15 @@
+
+L
+java:S1066."/Merge this if statement with the enclosing one.(’ó“é8æà«¤».
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íßúüùÿÿÿÿ8åàª¤».
+I
+java:S1659C"'Declare "value_cnt" on a separate line.(Íßúüùÿÿÿÿ8åàª¤».
+n
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(¡±þ8¹Ò˜£».
+m	java:S117X"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ˆ·Å8åàª¤».
+L
+java:S10665"/Merge this if statement with the enclosing one.(’ó“é8æà«¤».
+E
+java:S4274F"(Replace this assert with a proper check.(Ó×’º8ìÊ¬¤».
+r	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íßúüùÿÿÿÿ8åàª¤».
+r	java:S117<"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äçªÇýÿÿÿÿ8åàª¤».

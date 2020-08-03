@@ -1,0 +1,7 @@
+
+m	java:S117("QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨ì8‹ØÓ¤».
+v	java:S116"URename this field "QUERY_TYPE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô´‚†ùÿÿÿÿ8‹ØÓ¤».
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¯òª¸8‹ØÓ¤».
+j	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¨ì8‹ØÓ¤».
+o	java:S100D"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒËä¹ûÿÿÿÿ8‹ØÓ¤».

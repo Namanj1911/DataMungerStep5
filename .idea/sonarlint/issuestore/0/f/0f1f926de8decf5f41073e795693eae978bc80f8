@@ -1,0 +1,19 @@
+
+D
+java:S1168¨"&Return an empty array instead of null.(¥Ήο8ΌΙ£Ί.
+f
+java:S5361‡"HReplace this call to "replaceAll()" by a call to the "replace()" method.(±Π¶ƒ8…¥ο¤».
+v	java:S115%"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(—’ª8ΌΙ£Ί.
+D
+java:S1168Ώ"&Return an empty array instead of null.(¥Ήο8ΌΙ£Ί.
+n
+java:S1192ξ"KUse already-defined constant 'where' instead of duplicating its value here.(‡μ’‡ÿÿÿÿÿ8…¥ο¤».
+h
+java:S1192e"FDefine a constant instead of duplicating this literal "from " 3 times.(θηθÿÿÿÿÿ8Μ™›©Ί.
+I
+java:S1168ρ"+Return an empty collection instead of null.(¥Ήο8…¥ο¤».
+{	java:S115&"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ζ¨Ώ§ώÿÿÿÿ8ΌΙ£Ί.
+|
+java:S2293φ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ύΉÒ΅ϊÿÿÿÿ8…¥ο¤».
+D
+java:S1168"&Return an empty array instead of null.(¥Ήο8ΌΙ£Ί.

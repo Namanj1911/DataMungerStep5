@@ -1,0 +1,27 @@
+
+o
+java:S2677ƒ"LUse or store the value returned from "readLine" instead of throwing it away.(£­—âÿÿÿÿÿ8Å¼½¤».
+n
+java:S1450"RRemove the "row" field and declare it as a local variable in the relevant methods.(ˆÅ‚V8Å¼½¤».
+W
+java:S1854f":Remove this useless assignment to local variable "reader".(ÑÛÿâ8Å¼½¤».
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 33 to the 15 allowed.(ı°²—ùÿÿÿÿ8µ›¸¤».
+Y
+java:S1068"7Remove this unused "dataTypeDefinitions" private field.(ñíš³ıÿÿÿÿ8‰åÂ¤».
+X
+java:S1141‹"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Å¼½¤».
+M
+java:S5411“"*Use the primitive boolean expression here.(îå÷ıúÿÿÿÿ8Å¼½¤».
+i
+java:S2095n"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(™Œ¦Æ8Å¼½¤».
+P
+java:S1199…"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Å¼½¤».
+n
+java:S2095)"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(å×ÂÆûÿÿÿÿ8ô¡ƒÇº.
+H
+java:S5411Ÿ"*Use the primitive boolean expression here.(ºîı8Å¼½¤».
+L
+java:S3740r"/Provide the parametrized type for this generic.(¶¥ê˜8Å¼½¤».
+E
+java:S22019"(The return value of "trim" must be used.(’„ú 8ƒº¤».
